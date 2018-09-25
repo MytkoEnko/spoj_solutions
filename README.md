@@ -1,5 +1,5 @@
 # spoj_solutions
-In this repository you can find my solutions to SPOJ.com and pl.SPOJ.com (polish version) problems.
+In this repository you can find my solutions to SPOJ.com and pl.SPOJ.com (Polish version) problems.
 Each file is named after the problem with a prefix of "spoj" or "pl_spoj" accordingly and contain link to the original problem.
 By file extension (folder suffix) you can recognize programming language in which solution was provided.
 
